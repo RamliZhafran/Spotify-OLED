@@ -5,6 +5,12 @@ dengan lirik tersinkronisasi real-time dari pemutar Spotify.
 
 ## Demo
 
+Video demo:
+
+[![Demo Spotify-OLED](demospotifyoled.mp4)](demospotifyoled.mp4)
+
+Simulasi tampilan:
+
 ```
 ┌──────────────────────────────────────────┐
 │  SPOTIFY  PLAY   [position]              │
