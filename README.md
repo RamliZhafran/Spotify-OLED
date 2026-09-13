@@ -7,7 +7,7 @@ dengan lirik tersinkronisasi real-time dari pemutar Spotify.
 
 Video demo:
 
-<video src="https://github.com/RamliZhafran/Spotify-OLED/raw/main/demospotifyoled.mp4" controls width="100%"></video>
+![Demo Spotify-OLED](demospotifyoled.mp4)
 
 Simulasi tampilan:
 
