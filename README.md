@@ -6,7 +6,10 @@ dengan lirik tersinkronisasi real-time dari pemutar Spotify.
 ## Demo
 
 
-Uploading demospotifyoled.mp4…
+
+https://github.com/user-attachments/assets/37ef5b25-1918-4bc6-aab0-829d7092c799
+
+
 
 
 
