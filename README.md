@@ -5,9 +5,9 @@ dengan lirik tersinkronisasi real-time dari pemutar Spotify.
 
 ## Demo
 
-Video demo:
+![Karaoke lyrics reveal on OLED](demodemo.gif)
 
-![Demo Spotify-OLED](demospotifyoled.mp4)
+Full res video (dengan audio): [demospotifyoled.mp4](demospotifyoled.mp4) — 13.5 MB, cuma ~70 detik.
 
 Simulasi tampilan:
 
