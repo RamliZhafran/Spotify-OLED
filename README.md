@@ -6,24 +6,9 @@ dengan lirik tersinkronisasi real-time dari pemutar Spotify.
 ## Demo
 
 
-
-https://github.com/user-attachments/assets/477b8405-a413-4e4b-baf0-8cb66f7e55e8
-
+Uploading demospotifyoled.mp4…
 
 
-Simulasi tampilan OLED:
-
-```
-┌──────────────────────────────────────────┐
-│  SPOTIFY  PLAY  [position]               │
-├──────────────────────────────────────────┤
-│            ~ ~ ~                          │
-│          Purple rain,                     │
-│                                            │
-│  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
-│        Purple Rain - Prince               │
-└──────────────────────────────────────────┘
-```
 
 ## Fitur
 
