@@ -5,18 +5,30 @@ dengan lirik tersinkronisasi real-time dari pemutar Spotify.
 
 ## Demo
 
-![Karaoke lyrics reveal on OLED](demodemo.gif)
+Ganti blok berikut dengan URL embed videomu (lihat "Cara embed" di bawah):
 
-Full res video (dengan audio): [demospotifyoled.mp4](demospotifyoled.mp4) — 13.5 MB, cuma ~70 detik.
+```html
+<video src="https://github.com/user-attachments/assets/<GANTI_DENGAN_TOKEN_VIDEO>" controls muted loop width="100%"></video>
+```
 
-Simulasi tampilan:
+**Cara embed (biar videonya muncul dalam repo README):**
+
+1. File kecil sudah disiapkan: `~/Downloads/demospotifyoled.mp4` (**548 KB**, < 10 MB).
+2. Buka `README.md` di **editor web GitHub** (klik ikon pensil ✏️).
+3. **Drag & drop** file MP4 dari Downloads ke area editor — GitHub otomatis
+   meng-upload videonya dan menghasilkan URL `user-attachments`.
+4. Ganti URL `user-attachments/assets/<GANTI_DENGAN_TOKEN_VIDEO>` dengan URL
+   hasil upload tadi.
+5. Commit. GitHub menampilkan player video inline (autoplay + muted + loop).
+
+Simulasi tampilan OLED:
 
 ```
 ┌──────────────────────────────────────────┐
-│  SPOTIFY  PLAY   [position]              │
+│  SPOTIFY  PLAY  [position]               │
 ├──────────────────────────────────────────┤
-│              ~ ~ ~                        │
-│            Purple rain,                   │
+│            ~ ~ ~                          │
+│          Purple rain,                     │
 │                                            │
 │  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
 │        Purple Rain - Prince               │
